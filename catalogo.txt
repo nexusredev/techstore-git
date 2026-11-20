@@ -1,3 +1,4 @@
+Bienvenido a TechStore
 === CATÁLOGO TECHSTORE ===
 1. Laptop Pro - $1200
 2. Mouse Inalámbrico - $25
