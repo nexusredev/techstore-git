@@ -1,6 +1,7 @@
 Bienvenido a TechStore
 === CATÁLOGO TECHSTORE ===
-1. Laptop Pro - $1350
+1. Laptop Pro - $1150 (Precio Especial)
 2. Mouse Inalámbrico - $25
 3. Monitor 27 pulgadas - $300
---
+--- OFERTAS DEL MES ---
+- Teclado Mecánico - 15% de descuento
