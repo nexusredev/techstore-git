@@ -1,6 +1,6 @@
 Bienvenido a TechStore
 === CATÁLOGO TECHSTORE ===
-1. Laptop Pro - $1200
+1. Laptop Pro - $1100
 2. Mouse Inalámbrico - $25
 3. Monitor 27 pulgadas - $300
 --
